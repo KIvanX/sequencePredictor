@@ -11,4 +11,4 @@ testing.py - тестирование обученной модели в гра�
 
 simple_lstm_model.pth - обученная модель
 
-![Скриншот](https://github.com/KIvanX/sequencePredictor/raw/master/screenshot.png)
+![Скриншот](https://github.com/KIvanX/sequencePredictor/blob/main/screenshot.png)
